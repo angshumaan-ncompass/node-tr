@@ -16,6 +16,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.17.2",
+    "express-jwt": "^7.7.2",
     "express-validator": "^6.14.0",
     "joi": "^17.6.0",
     "jsonwebtoken": "^8.5.1",
@@ -23,6 +24,8 @@
     "uuid": "^8.3.2",
     "zlib": "^1.0.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "2.0.16"
+  },
   "description": ""
 }
